@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "LETS LISTEN ALONG PLS PLS",
+    introTitle: 'yo lexi',
+    introDesc: `pls pls listen to music with me
+    LETS LISTEN TO MUSIC YOU FOOL
+    LETS LISTEN TO SOME FUCKING MUSIC
+    ahhh i wanna listen`,
+    btnIntro: 'tehehe',
+    title: 'lol i loooove listening w uu',
+    desc: 'you got a cool taste in music mate ',
+    btnYes: 'wanna listen',
+    btnNo: 'i dont wanna listen with you',
+    question: 'yo do you want to listen to music with me?',
+    btnReply: 'YESSS',
+    reply: 'I would abso-fucking-lutely love to listen with you uwu',
+    mess: 'i knew it lol you looove listening w me',
+    messDesc: 'yo today in 10 mins lets LISTENN',
+    btnAccept: 'YEAH SURE',
+    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
